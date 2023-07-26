@@ -1,0 +1,3 @@
+{
+  "extends": [ "@scy-ui/eslint-config" ]
+}
