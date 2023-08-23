@@ -1,6 +1,6 @@
 {
   "name": "@scy-ui/tokens",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "- [ ] Text - [ ] Heading - [ ] Box / Card - [ ] Button - [ ] TextInput - [ ] Checkbox - [ ] Avatar - [ ] MultiStep",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
